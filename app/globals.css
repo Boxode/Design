@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+	box-sizing: border-box;
+}
+
 body {
   background-color: black;
 }
@@ -15,4 +19,9 @@ body {
     font-family: PoppinsBold;
     src: url(/fonts/Poppins-Bold.woff2) format("woff2")
   }
+}
+
+::selection {
+  background-color: #0b2289;
+  color: white;
 }

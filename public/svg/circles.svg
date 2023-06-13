@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" width="1500" height="1000">
+	<title>6087664-ai</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1500 1000h-1500v-1000h1500z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="1093.7" y1="398.1" x2="1031.2" y2="398.1" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#666666"/>
+			<stop offset="1" stop-color="#333333"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="399.6" y1="677.1" x2="399.6" y2="632.3" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#666666"/>
+			<stop offset="1" stop-color="#333333"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #3e464f;stroke-width: 1.5 } 
+		.s1 { fill: url(#g1) } 
+		.s2 { fill: url(#g2) } 
+	</style>
+	<g id="OBJECTS">
+		<g id="&lt;Clip Group&gt;" clip-path="url(#cp1)">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s0" d="m1081.5 734.7c0 11.3-9.2 20.5-20.5 20.5-11.3 0-20.4-9.2-20.4-20.5 0-11.3 9.1-20.5 20.4-20.5 11.3 0 20.5 9.2 20.5 20.5z"/>
+					</g>
+					<g id="&lt;Group&gt;">
+						<path id="&lt;Path&gt;" class="s0" d="m612.3 611.8c0 8-6.4 14.5-14.4 14.5-8 0-14.5-6.5-14.5-14.5 0-8 6.5-14.4 14.5-14.4 8 0 14.4 6.4 14.4 14.4z"/>
+					</g>
+					<path id="&lt;Path&gt;" class="s1" d="m1093.7 398c-17.3 0-31.3 14.1-31.3 31.3 0-17.2-13.9-31.3-31.2-31.3 17.3 0 31.2-13.9 31.2-31.1 0 17.2 14 31.1 31.3 31.1z"/>
+					<path id="&lt;Path&gt;" class="s0" d="m1104.9 441.8c21.2 73.6-120.4 179.1-316.4 235.7-196 56.6-372.1 42.8-393.4-30.8-21.2-73.5 120.4-179 316.4-235.6 196-56.6 372.1-42.8 393.4 30.7z"/>
+					<path id="&lt;Path&gt;" class="s2" d="m422 654.7c-12.4 0-22.4 10-22.4 22.4 0-12.4-10-22.4-22.4-22.4 12.4 0 22.4-10 22.4-22.4 0 12.4 10 22.4 22.4 22.4z"/>
+					<path id="&lt;Path&gt;" class="s0" d="m1069.9 729c-38.3 66.3-212.6 37.4-389.2-64.6-176.7-102-288.9-238.5-250.6-304.8 38.3-66.3 212.6-37.4 389.2 64.6 176.7 102 288.9 238.4 250.6 304.8z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

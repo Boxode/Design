@@ -1,0 +1,46 @@
+.wave {
+    background: url(/svg/wave.svg) no-repeat;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 99%;
+	z-index: -1;
+}
+
+.stars {
+	background-image: url(/svg/stars.svg);
+	position: relative;
+	width: 100%;
+    background-position: center;
+}
+
+.stars::before {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    top: 0%;
+    bottom: 5%;
+    top: 15%;
+    width: 125%;
+    left: -25%;
+    background: url(/noise.webp) repeat,linear-gradient(83.21deg,#0b2289 0%,#666 100%);
+    background-position: center;
+    background-blend-mode: overlay;
+    -webkit-mask-image: radial-gradient(rgba(0,0,0,.5),transparent 70%);
+    mask-image: radial-gradient(rgba(0,0,0,.5),transparent 70);
+}
+
+
+.stars::after {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    top: 0%;
+    bottom: 5%;
+    width: 125%;
+    left: -25%;
+    background-image: url(/svg/stars.svg);
+    width: 100%;
+    rotate: 180deg;
+    @apply animate-pulse
+}
