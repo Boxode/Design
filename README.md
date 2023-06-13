@@ -1,7 +1,7 @@
 <div align="center">
 	<img height="250em" src="https://raw.githubusercontent.com/FabianHMzz/Design/main/public/Boxode%20Design.png" alt="Boxode" />
 	<h3>Learn more about our design system for building a incredible web experiences.</h3>
-	<a href="https://boxode.org/design">Boxode Design</a> ◻ <a href="https://boxode.org/design/get-started">Introduction</a>
+	<a href="https://boxode.org/design">Boxode Design</a> ◻ <a href="https://boxode.org/design/get-started">Introduction</a> ◻ <a href="https://boxode.org/design/brands">Brands</a> ◻ <a href="https://boxode.org/design/components">Components</a>
 </div>
 
 ## Boxode Design ◻ 
