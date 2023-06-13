@@ -1,34 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+	<img height="250em" src="https://raw.githubusercontent.com/FabianHMzz/Design/main/public/Boxode%20Design.png" alt="Boxode" />
+	<h3>Learn more about our designers and how Boxode Design works.</h3>
+	<a href="https://boxode.org/templates">Templates</a> ◻ <a href="https://boxode.org/oss">Open Source</a>
+</div>
 
-## Getting Started
+## Boxode Design ◻ 
 
-First, run the development server:
+Our company is dedicated to creating innovative digital solutions for various business problems. We strive to provide effective, efficient and agile solutions that allow to achieve the objectives and improve the productivity of small, medium and large companies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Our development process is based on a deep understanding of the challenges our customers face. We take the time to research and understand your needs, then design custom solutions that meet your requirements.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+We work with the latest technologies and tools that ensure that our solutions are of high quality and that they meet current standards. In addition, we encourage collaboration and open communication from our team to ensure that everyone is aligned and working together towards the success of the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+In short, our company is dedicated to creating innovative digital solutions that help our clients solve their challenges and improve their productivity in an agile, efficient and effective way.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contributing
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Reference
+- <a href="https://github.com/Boxode/.github/blob/main/CODE_OF_CONDUCT_EN.md">Code of Conduct</a>
+- <a href="">Contributing Guidelines</a>
+- <a href="https://github.com/Boxode/Boxode/blob/main/LICENSE">Apache 2.0 License</a>
