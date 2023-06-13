@@ -8,7 +8,7 @@
 
 
 
-## Contributing
+## Contributing 🛠
 
 ## Reference
 - <a href="https://github.com/Boxode/.github/blob/main/CODE_OF_CONDUCT_EN.md">Code of Conduct</a>
